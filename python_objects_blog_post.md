@@ -7,7 +7,7 @@
 Python is a powerful and versatile programming language with a unique approach to handling data. One of the key concepts in Python is the distinction between mutable and immutable objects, which can greatly impact how your code behaves. In this blog post, we'll explore what mutable and immutable objects are, why they matter, and how Python treats them differently. We will also delve into how arguments are passed to functions in Python and what implications this has for mutable and immutable objects.
 
 
-## id and type:
+## - id and type:
 
 Every object in Python has a unique identifier and a type. The 'id()' function returns the identity of an object, which is typically the memory address where the object is stored. The 'type()' function, on the other hand, returns the type of the object, such as 'int', 'list', or 'tuple'. Understanding the identity and type of objects is crucial when working with different data structures in Python.
 

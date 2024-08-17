@@ -99,7 +99,7 @@ print(my_string)  # Outputs: "hello" (unchanged)
 ```
 
 
-## - Conclusion:
+## Conclusion:
 
 Understanding the differences between mutable and immutable objects in Python is essential for writing effective code. It affects how data is manipulated, especially when passing objects to functions. By knowing these distinctions, you can avoid common pitfalls and make informed decisions about how to structure your code.
 

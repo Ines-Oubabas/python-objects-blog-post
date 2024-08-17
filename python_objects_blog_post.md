@@ -29,7 +29,7 @@ Mutable objects are objects whose state or content can be changed after they are
 l = [1, 2, 3]
 print(id(l)) # Outputs: Memory adress of the list
 l.append(4)
-print(id(l)) #The memory adress is the same, but the list is now [1, 2, 3, 4]
+print(id(l)) # The memory adress is the same, but the list is now [1, 2, 3, 4]
 ```
 
 ## - Immutable Objects:
